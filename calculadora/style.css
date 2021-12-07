@@ -1,0 +1,51 @@
+body {
+    background-color: #95693c;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0px;
+    display: block; 
+    float: left;
+}
+section {
+    border: 2px solid white;
+    padding: 10px;
+    width: max-content; 
+    height:max-content;
+}
+.result {
+    width: 300px;
+    height: 50px;
+    border: 3px solid white;
+    padding: 10px;
+    align-items: center;
+    background-color: #64574f;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.corpo {
+    width: 300px;
+    height: 250px;
+    border: 3px solid white;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+.button {
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.486);
+    width: 62px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: initial;
+    font-size: 28px;
+    display: block;
+    float:left;
+    margin: 6px;
+    border-radius: 8px;
+}
